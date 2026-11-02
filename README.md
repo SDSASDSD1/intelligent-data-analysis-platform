@@ -13,6 +13,26 @@
 - **报告与数据导出**：下载 Markdown 分析报告；全量原始 CSV 导出需管理员审核。
 - **账户与权限**：支持本机管理员和分析员登录，按账户管理分析资料。
 
+## 页面展示
+
+以下画面来自项目运行录屏，使用虚构销售数据。
+
+### 数据上传
+
+![数据上传页面](docs/screenshots/overview.jpg)
+
+### 数据预览与字段信息
+
+![数据预览与字段信息](docs/screenshots/data-preview.jpg)
+
+### 数据概览与多步 Agent
+
+![数据概览与多步 Agent](docs/screenshots/agent.jpg)
+
+### 每日销售趋势
+
+![每日销售趋势图](docs/screenshots/daily-trend.jpg)
+
 ## 项目流程
 
 1. 登录账户，上传 CSV 或 Excel 文件。
