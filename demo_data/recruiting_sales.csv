@@ -1,0 +1,14 @@
+订单号,日期,商品,销售额,邮箱
+DEMO001,2026-10-01,咖啡,100,demo01@example.com
+DEMO002,2026-10-01,茶,150,demo02@example.com
+DEMO003,2026-10-01,果汁,200,demo03@example.com
+DEMO004,2026-10-01,,50,demo04@example.com
+DEMO005,2026-10-02,咖啡,120,demo05@example.com
+DEMO006,2026-10-02,茶,180,demo06@example.com
+DEMO007,2026-10-02,果汁,90,demo07@example.com
+DEMO008,2026-10-02,咖啡,60,demo08@example.com
+DEMO009,2026-10-03,茶,140,demo09@example.com
+DEMO010,2026-10-03,果汁,210,demo10@example.com
+DEMO011,2026-10-03,咖啡,300,demo11@example.com
+DEMO012,2026-10-03,茶,200,demo12@example.com
+

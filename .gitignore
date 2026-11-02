@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+.env
+private_data/
+*.key
+backups/
+.private_data*.lock
+private_data-restored/
+private_data-before-restore*/
+
